@@ -1,0 +1,29 @@
+Test Cases:
+
+server=022.10.10.10end
+1222.10.10.10
+10.287.88.10
+Connection from 192.a68.1.1 refused
+End
+connecting to 181.34.50.10:4015 now
+connecting to 181.34.50.10:65536 now
+192.87.10.32:1021.
+server=181.00.50.10:4015end
+connecting to 192.168.1.1 now
+connecting to 192.168.1.1 then 192.168.10.10:302
+181.34.50.10:031
+50.25.12.6.3:231
+50.25.12.6:231
+50.25.12.6.:231
+server=3.6.7.20;hi
+server=10.0.0.255:8080end
+192a168.1.1.1
+192.168.1.1.
+Connection from 192.168.1.1 refused
+192.168.01.1
+1.2.3.4:99999
+12.34.56
+no number here
+END
+
+
